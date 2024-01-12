@@ -1,0 +1,16 @@
+.navGlobal {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+}
+
+.navGlobal ul {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.navGlobal ul li {
+    list-style: none;
+}
