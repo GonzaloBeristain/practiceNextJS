@@ -1,4 +1,4 @@
-# The first practice/proyect with Next.JS
+# The first practice/project with Next.JS
 
 ## USE
 
